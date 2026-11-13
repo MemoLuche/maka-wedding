@@ -1,0 +1,3 @@
+# Local credentials (see config/credentials.example.php)
+config/credentials.php
+.DS_Store
